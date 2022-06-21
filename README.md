@@ -8,7 +8,7 @@ The default theme – cloned from oh-my-zsh. **add human readable execution time
 ```fish
 omf install robbyrussell
 
-wget -O ~/.local/share/omf/themes/robbyrussell/functions/fish_right_prompt.fish https://raw.githubusercontent.com/whoisix/theme-robbyrussell/master/functions/fish_right_prompt.fish
+wget -O ~/.local/share/omf/themes/robbyrussell/functions/fish_right_prompt.fish https://raw.githubusercontent.com/icpd/theme-robbyrussell/master/functions/fish_right_prompt.fish
 ```
 
 #### Characteristics
